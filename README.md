@@ -19,4 +19,4 @@ Allows users to input hypothetical values of the predictor values to predict a v
 ## Uplift modelling
 
 Given data from an A/B test, predicts the best treatment for each individual. 
-This flow was coded in Python and is not complete, but example of the figures generated from this analysis are available.
+This flow was coded in Python and is not complete, but an example of a figure generated from this analysis is available.
