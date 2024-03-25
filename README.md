@@ -10,3 +10,7 @@ This repo contains example outputs from some of the end-to-end flows that I buil
 ## Data exploration
 
 Includes a correlation heat map and single-variable plots (i.e., histogram or bar plot).
+
+## Regression
+
+Automatically detects the type of the user's target variable, and runs the appropriate regression (e.g., linear, logistic). Allows users to upload a file with new data to run predictions on once the model has been built.
