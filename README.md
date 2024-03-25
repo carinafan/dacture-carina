@@ -5,7 +5,7 @@ Dacture’s product was a software platform that allowed people to easily run an
 My role was to code end-to-end flows in Python and R to automatically run and interpret the appropriate model given the user’s research question, 
 and then provide an output that was easily interpretable by someone largely unfamiliar with ML models.
 
-This repo contains example outputs from some of the end-to-end flows that I built. These files were generated using R. 
+This repo contains example outputs from some of the end-to-end flows that I built. These files were generated using R. Source code is hidden but the output of the evaluated code is available.
 
 ## Data exploration
 
