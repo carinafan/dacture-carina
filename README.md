@@ -13,4 +13,5 @@ Includes a correlation heat map and single-variable plots (i.e., histogram or ba
 
 ## Regression
 
-Automatically detects the type of the user's target variable, and runs the appropriate regression (e.g., linear, logistic). Allows users to upload a file with new data to run predictions on once the model has been built.
+Automatically detects the type of the user's target variable, and runs the appropriate regression (e.g., linear, logistic). 
+Allows users to input hypothetical values of the predictor values to predict a value for the target variable.
